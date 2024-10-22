@@ -1,0 +1,10 @@
+[
+  {
+    "user_input": "Im Jahr 1489 schenkte der Rat von Augsburg Maximilian eine Goldschmiedearbeit.",
+    "assistant_output_json": "{\n  \"Start\": \"1489\",\n  \"End\": \"1489\",\n  \"Handlung_ausgeführt_von\": \"der Rat von Augsburg\",\n  \"Ort_der_Handlung\": \"unknown\",\n  \"übertragenes_Objekt\": \"eine Goldschmiedearbeit\",\n  \"vorbesitzer\": \"der Rat von Augsburg\",\n  \"empfänger\": \"Maximilian\"\n}"
+  },
+  {
+    "user_input": "Anna Ziegler ist die Mutter der Barbara Ziegler.",
+    "assistant_output_json": "{\n  \"Start\": \"unknown\",\n  \"End\": \"unknown\",\n  \"Art des Verhältnisses\": \"Mutter\",\n  \"Elternteil\": \"Anna Ziegler\",\n  \"Kind\": \"Barbara Ziegler\"\n}"
+  }
+]
