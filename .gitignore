@@ -1,6 +1,4 @@
 .venv/
 archive/
 .env
-Chain.ipynb
-RAG_Chain.ipynb
 .ipynb_checkpoints/
