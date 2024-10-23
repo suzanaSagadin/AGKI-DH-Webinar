@@ -2,9 +2,11 @@
 
 Example for a Webinar on 23.10.2024, DHd-AG Angewandte Generative KI in den Digitalen Geisteswissenschaften (AGKI-DH)
 
-### Notebook
+### Notebooks
 
 - **LangChain.ipynb**: Main notebook demonstrating the use of LangChain.
+- **Chain.ipynb**
+- **RAG_Chain.ipynb**
 
 ### Data
 
