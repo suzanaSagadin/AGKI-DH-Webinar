@@ -2,7 +2,7 @@
 
 Lern- und Beispielmaterial für ein Webinar am 23.10.2024 der DHd-AG *Angewandte Generative KI in den Digitalen Geisteswissenschaften* (AGKI-DH).
 
-Die Beispieldaten stammen aus dem Projekt **ManMax** (*Managing Maximilian*.) und werden hier zu Demonstrations- und Lehrzwecken verwendet.
+Die Beispieldaten stammen aus dem Projekt **ManMax** (*Managing Maximilian*) und werden hier zu Demonstrations- und Lehrzwecken verwendet.
 
 ### Notebooks
 
